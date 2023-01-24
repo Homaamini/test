@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    
+}
+h1{
+    color: blue;
+    background-color: aquamarine;
+    padding: 20px;
+    border-radius: 5px;
+}
+p {
+    color: red;
+    background-color: yellow;
+    padding: 10px;
+}
